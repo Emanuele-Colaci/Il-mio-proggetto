@@ -1,0 +1,59 @@
+body{
+    background-image: url("C:/Users/39342/OneDrive/Desktop/HTML/esercizio ammissione boolean/background.jpg");
+    background-size:cover;
+}
+
+div{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.603);
+    border-radius: 10px;
+    margin: auto;
+    width: 50%;
+}
+
+#logo{
+    height: 90px;
+}
+
+h1{
+    color: rgb(3, 248, 3);
+}
+
+nav{
+    background-color: rgb(3, 248, 3);
+    height: 30px;
+    padding: 13px;
+    padding-bottom: 5px;
+}
+
+main{
+    color: white;
+    text-align: left;
+}
+
+#caricamento{
+    width: 250px;
+    height: 20px;
+    background-color: orange;
+    text-align: left;
+    margin-left: 0px;
+    border-radius: 3px;
+}
+
+#caricamento1{
+    width: 400px;
+    height: 20px;
+    background-color: green;
+    text-align: left;
+    margin-left: 0px;
+    border-radius: 3px;
+}
+
+#caricamento2{
+    width: 100px;
+    height: 20px;
+    background-color: red;
+    text-align: left;
+    margin-left: 0px;
+    border-radius: 3px;
+}
